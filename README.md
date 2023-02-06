@@ -2,9 +2,6 @@
 
 You can visit pepe-mate [vlsidlyarevich-aputomes](https://github.com/vlsidlyarevich) for more softpepe content.
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=solairerove)](https://git.io/streak-stats)
-[![trophy](https://github-profile-trophy.vercel.app/?username=solairerove)](https://github.com/ryo-ma/github-profile-trophy)
-
 <!--
 **solairerove/solairerove** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
