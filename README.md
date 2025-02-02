@@ -8,3 +8,5 @@ not on duty.
 The main development stack is **Java/Kotlin** ☕, **Spring** 🍃, **RocketMQ** 🚀, **Postgres** 🐘. Worked as a developer on
 projects from different domains like risk management in bookmaker, logistic platform for retail emarket, ticket provider
 in bank, insurance for network of medical institutions.
+
+second github https://github.com/mkryvitskis
