@@ -1,4 +1,4 @@
-Experience after university graduation is **7** years.
+Experience after university graduation is **8** years.
 
 I’m the person on the team you can rely on if you want to develop new
 functionality without requirements and a task description, fix floating bugs that nobody wants, increase productivity
